@@ -1,8 +1,11 @@
 # NFTrees
 ### Problem 
 Platforms where NFTs can be generated and then sold to interested parties do not spend much time sharing what is happening in the ecological world.
-The fact is that a single piece of art created on such platform consumes gigantic amounts of resources and emits tons of carbon in the atmosphere. 
-Forests are being razed and nature is slowly but surely being overwhelmed by the needs of NFTs.
+The fact is that a single piece of art created on such platform consumes gigantic amounts of resources and emits tons of carbon in the atmosphere
+is a subject of concern which needs to be addressed sooner rather than later. What can we do against this unreasonable wasting of resources is a
+question that has recently been given attention by many concerned individuals and groups. The goal of this project is to bring NFTs one step in the 
+right direction which is thinking more about the consequences of even a single NFT on the nature and also about raising the much needed awareness among
+artists and traders by applying stricter conditions when one is performing a transaction on a Proof-of-Work blockchain network. 
 
 ### Idea
 This project aims to create awareness among the artists that submit their work on NFT platforms as to how their contribution affects the environment.
