@@ -11,13 +11,18 @@ artists and traders by applying stricter conditions when one is performing a tra
 This project aims to create awareness among the artists that submit their work on NFT platforms as to how their contribution affects the environment.
 This can be achieved through presenting concrete number of trees that are cut down, the amount of coal that is extracted and other critical information
 that is not being included in the process of minting a new NFT. However, the information itself is not enough.
-This projects aims to also include a fixed fee in each minting transaction. 
-This is to be then transferred to a non-profit organization (environmental charity) which is involved in planting trees all around the world.
+This projects aims to also include a fixed fee in each minting transaction. This is to be then transferred to an authorized non-profit organization
+(environmental charity) which is involved in planting trees all around the world. That way the large energy consumption that comes with the creation of a new
+digital asset will be in fact be taken into account and the right counter measures will be applied.
 
-This information should be presented in a clear way. For instance, 1% of the NFT's price will be used to plant X number of trees.
-If the artist wishes to be more generous, they can raise the bar and therefore a higher number of trees can be planted.  
-The artists themselves could be incentivised to do that by being part of a special ranking for eco-friendly contributions which would boost their popularity.
+This information should be presented in a clear way. For instance, one should choose to donate at least 0.001 eth during the process of minting a new collectible
+and also the NPO (non-profit-organization) which will be the recipient of the fee.
+If the artist wishes to be more generous, they can raise the bar and therefore a higher number of trees can be planted.
+The artists themselves could be incentivised to do that as each NFT will receive a "green" rank based
+on the fee that the artist is willing to provide to a authorized non-profit organization. Based on that fee the artists will receive 
+"green" tokens where these would serve as a way to vote on which the authorized NPOs will be, meaning allowing the owners to take part in governance decisions.
+The owners of these tokens could receive other bonuses such as the right to have their NFT listed in a special section to receive even more attention and therefore be easier to sell.
 
-There should be at all times a designated section on the corresponding platform that shares statistics regarding the current number of energy consumed
-and also share the number of trees that are being planted with each new transaction. The above described approach can be applied similarly to the selling/reselling
-of a NFT. 
+The workflow described during the minting process can be applied to the trading of a NFT as well. With each trading artists will have to provide again the same
+fee and with the same condition that if they are willing to pay a larger one, they will in turn receive more of the "green" tokens.
+
